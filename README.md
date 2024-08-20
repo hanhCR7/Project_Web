@@ -39,17 +39,6 @@
 
 - Quản lý banner
 
-## Demo
-Trang chủ:
-http://www.nguyenminhtien.id.vn/
-
-Trang admin:
-http://www.nguyenminhtien.id.vn/admin
-
-Tài khoản: admin
-
-Mật khẩu: 123456
-
 ## Authors
 
 - Trần Đức Vương
