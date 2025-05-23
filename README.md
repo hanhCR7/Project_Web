@@ -39,17 +39,4 @@
 
 - Quản lý banner
 
-## Authors
-
-- Trần Đức Vương
-- Đỗ Quang Bình Minh
-- Nguyễn Đức Minh Quân
-- Nguyễn Hồ Việt Anh
-- Nguyễn Hoàng Duy
-- Đỗ Xuân Hạnh
-- Phạm Quốc Huy
-- Đoàn Tuấn Nam
-- Nguyễn Trường Sơn
-- Phạm Thị Hồng Thư
-- Nguyễn Minh Tiến
 
